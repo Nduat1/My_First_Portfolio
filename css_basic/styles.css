@@ -1,6 +1,8 @@
 body{
     display: flex;
     flex-direction: column;
+    background: rgb(234, 210, 243);
+    color: black;
 }
 main{
     display: flex;
